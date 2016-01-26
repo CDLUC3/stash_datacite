@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = StashDatacite::VERSION
   s.authors     = ["sfisher"]
   s.email       = ["scott.fisher@ucop.edu"]
-  s.homepage    = "TODO"
+  s.homepage    = "http://github.com/CDLUC3/stash_datacite"
   s.summary     = "Summary of StashDatacite."
   s.description = "Description of StashDatacite."
   s.license     = "MIT"
