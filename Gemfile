@@ -10,6 +10,8 @@ gemspec
 # Git. Remember to move these dependencies to your gemspec before releasing
 # your gem to rubygems.org.
 
+gem "datacite-mapping", :path => '/dash2/apps/ui/datacite-mapping'
+
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
 
