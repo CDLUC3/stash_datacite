@@ -1,3 +1,8 @@
+# This repository is no longer active. All work on this project has been merged into [CDLUC3/stash](https://github.com/CDLUC3/stash). 
+
+---
+
+
 # Datacite Engine for Dashv2
 
 [![Build Status](https://travis-ci.org/CDLUC3/stash_datacite.svg?branch=development)](https://travis-ci.org/CDLUC3/stash_datacite)
