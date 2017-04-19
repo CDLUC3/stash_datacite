@@ -21,7 +21,7 @@ PATH
       httpclient (~> 2.8.3)
       jquery-fileupload-rails (~> 0.4.6)
       jquery-rails
-      jquery-turbolinks
+      jquery-turbolinks (~> 2.1.0)
       jquery-ui-rails
       kaminari
       omniauth (~> 1.2.2)
@@ -405,4 +405,4 @@ DEPENDENCIES
   stash_engine!
 
 BUNDLED WITH
-   1.14.4
+   1.14.6
